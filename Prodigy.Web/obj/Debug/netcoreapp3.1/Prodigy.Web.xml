@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Prodigy.Web</name>
+    </assembly>
+    <members>
+        <member name="M:Prodigy.Web.Controllers.UsuariosController.Login(Prodigy.Utils.Models.Request.RequestLoginModel)">
+            <summary>
+            Método para realizar el login
+            </summary>
+            <param name="requestData">RequestLoginModel</param>
+            <returns>
+            ResponseLoginModel
+            </returns>
+        </member>
+        <member name="M:Prodigy.Web.Controllers.UsuariosController.Logout(Prodigy.Utils.Models.Request.RequestBody)">
+            <summary>
+            Método para realizar el logout
+            </summary>
+            <param name="requestData">RequestLoginModel</param>
+            <returns>
+            ResponseLoginModel
+            </returns>
+        </member>
+        <member name="M:Prodigy.Web.Controllers.UsuariosController.consultarUsuarios(Prodigy.Utils.Models.Request.RequestBody)">
+            <summary>
+            Méodo para consultar lista de usuarios
+            </summary>
+            <param name="requestData">RequestBody</param>
+            <returns>
+            Lista de Usuarios
+            </returns>
+        </member>
+        <member name="M:Prodigy.Web.Controllers.UsuariosController.consultarUsuarioById(Prodigy.Utils.Models.Request.RequestUsuarioByIdModel)">
+            <summary>
+            Méodo para consultar un usuario por ID
+            </summary>
+            <param name="requestData">RequestBody</param>
+            <returns>
+            Lista de Usuarios
+            </returns>
+        </member>
+        <member name="M:Prodigy.Web.Controllers.UsuariosController.insertarUsuario(Prodigy.Utils.Models.Request.RequestAddUsuarioModel)">
+            <summary>
+            Agregar nuevo usuario
+            </summary>
+            <param name="requestData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Prodigy.Web.Controllers.UsuariosController.modificarUsuario(Prodigy.Utils.Models.Request.RequestModUsuarioModel)">
+            <summary>
+            Modificar usuario por ID
+            </summary>
+            <param name="requestData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Prodigy.Web.Controllers.UsuariosController.EliminarUsuario(Prodigy.Utils.Models.Request.RequestDltUsuarioModel)">
+            <summary>
+            Eliminar usuario por ID (Eliminación Física)
+            </summary>
+            <param name="requestData"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

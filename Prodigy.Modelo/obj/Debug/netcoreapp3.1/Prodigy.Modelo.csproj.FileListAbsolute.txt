@@ -1,0 +1,15 @@
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\bin\Debug\netcoreapp3.1\Prodigy.Modelo.deps.json
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\bin\Debug\netcoreapp3.1\Prodigy.Modelo.runtimeconfig.json
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\bin\Debug\netcoreapp3.1\Prodigy.Modelo.runtimeconfig.dev.json
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\bin\Debug\netcoreapp3.1\Prodigy.Modelo.dll
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\bin\Debug\netcoreapp3.1\Prodigy.Modelo.pdb
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\obj\Debug\netcoreapp3.1\Prodigy.Modelo.csprojAssemblyReference.cache
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\obj\Debug\netcoreapp3.1\Prodigy.Modelo.AssemblyInfoInputs.cache
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\obj\Debug\netcoreapp3.1\Prodigy.Modelo.AssemblyInfo.cs
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\obj\Debug\netcoreapp3.1\Prodigy.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\obj\Debug\netcoreapp3.1\Prodigy.Modelo.dll
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\obj\Debug\netcoreapp3.1\Prodigy.Modelo.pdb
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\obj\Debug\netcoreapp3.1\Prodigy.Modelo.genruntimeconfig.cache
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\bin\Debug\netcoreapp3.1\Prodigy.Utils.dll
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\bin\Debug\netcoreapp3.1\Prodigy.Utils.pdb
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Modelo\obj\Debug\netcoreapp3.1\Prodigy.Modelo.csproj.CopyComplete

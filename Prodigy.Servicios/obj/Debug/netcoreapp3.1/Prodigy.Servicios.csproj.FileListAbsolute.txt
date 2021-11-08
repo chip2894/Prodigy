@@ -1,0 +1,16 @@
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Servicios.deps.json
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Servicios.dll
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Servicios.pdb
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Modelo.dll
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Persistencia.dll
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Utils.dll
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Persistencia.pdb
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Modelo.pdb
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\bin\Debug\netcoreapp3.1\Prodigy.Utils.pdb
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\obj\Debug\netcoreapp3.1\Prodigy.Servicios.csprojAssemblyReference.cache
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\obj\Debug\netcoreapp3.1\Prodigy.Servicios.AssemblyInfoInputs.cache
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\obj\Debug\netcoreapp3.1\Prodigy.Servicios.AssemblyInfo.cs
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\obj\Debug\netcoreapp3.1\Prodigy.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\obj\Debug\netcoreapp3.1\Prodigy.Servicios.csproj.CopyComplete
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\obj\Debug\netcoreapp3.1\Prodigy.Servicios.dll
+C:\Users\José Luis Castro\Documents\Prodigy\Prodigy.Servicios\obj\Debug\netcoreapp3.1\Prodigy.Servicios.pdb
